@@ -12,4 +12,5 @@ code .
 Pull requestler kabul edilir.Büyük değişiklikler için lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # license 
 MIT
+
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
